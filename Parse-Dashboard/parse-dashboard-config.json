@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://localhost:1337/parse",
+      "serverURL": "https://parsepurelab.herokuapp.com/parse/",
       "appId": "myAppId",
       "masterKey": "myMasterKey",
       "appName": "MyApp"
